@@ -16,7 +16,7 @@
 ## 📜 脚本列表
 
 ### 🛠️ 原创脚本
-- [储存为PDF并转曲.jsx](/illustrator-script-compilation/储存为PDF并转曲%20v0.4.jsx) - 一键导出转曲的PDF文件
+- [储存为PDF并转曲.jsx](/储存为PDF并转曲%20v0.4.jsx) - 一键导出转曲的PDF文件
 
 
 ### 🌐 汉化脚本
