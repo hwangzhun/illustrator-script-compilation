@@ -21,7 +21,7 @@
 
 ### 🌐 汉化脚本
 
-#### [对象与画板对齐 v0.2.jsx](/illustrator-script-compilation/对象与画板对齐%20v0.2.jsx)
+#### [对象与画板对齐 v0.2.jsx](/对象与画板对齐%20v0.2.jsx)
   
 - 原脚本: AlignToArtboards.jsx
 - 原作者：[creold](https://github.com/creold)  
@@ -36,7 +36,7 @@
 
 ---
 
-#### [画板查找器 v0.2.jsx](/illustrator-script-compilation/画板查找器%20v0.2.jsx)
+#### [画板查找器 v0.2.jsx](/画板查找器%20v0.2.jsx)
   
 - 原脚本: ArtboradsRemapper.jsx
 - 原作者：[creold](https://github.com/creold)  
@@ -47,7 +47,7 @@
 
 ---
 
-#### [画板名称重映射 v0.1.5.jsx](/illustrator-script-compilation/画板名称重映射%20v0.1.5.jsx)
+#### [画板名称重映射 v0.1.5.jsx](/画板名称重映射%20v0.1.5.jsx)
   
 - 原脚本: ArtboradsRemapper.jsx
 - 原作者：[creold](https://github.com/creold)  
@@ -58,7 +58,7 @@
 
 ---
 
-#### [批量重命名器 v1.5.jsx](/illustrator-script-compilation/批量重命名器%20v1.5.jsx)
+#### [批量重命名器 v1.5.jsx](/批量重命名器%20v1.5.jsx)
   
 - 原脚本: BatchRenamer.jsx
 - 原作者：[creold](https://github.com/creold)  
@@ -86,7 +86,7 @@
 
 ---
 
-#### [平均颜色 v0.1.jsx](/illustrator-script-compilation/平均颜色%20v0.1.jsx)
+#### [平均颜色 v0.1.jsx](/平均颜色%20v0.1.jsx)
   
 - 原脚本: AverageColors.jsx
 - 原作者：[creold](https://github.com/creold)  
@@ -97,7 +97,7 @@
 
 ---
 
-#### [画板名称重映射 v0.1.5jsx](scripts/translated/AlignToArtboards.jsx)
+#### [画板名称重映射 v0.1.5jsx](/AlignToArtboards.jsx)
   
 - 原脚本: ArtboradsRemapper.jsx
 - 原作者：[creold](https://github.com/creold)  
@@ -105,10 +105,6 @@
 将画板名称写入文本文件或从文本中应用。与“画板”面板中的数字对应的指定索引范围内。
 
 ![ArtboardsRemapper](https://i.ibb.co/xG8sSNr/Artboards-Remapper.gif)
-
-
-
-
 
 对选定对象或组内或渐变内的对象进行颜色平均化。脚本会跳过无颜色或有图案的对象。如果未选择任何对象，脚本将处理文档中的所有组。它有两种模式：静默模式和对话框模式。可在 `CFG.showUI` 中更改。  
 
